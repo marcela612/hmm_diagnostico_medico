@@ -23,10 +23,11 @@ ENV/
 *.swo
 .DS_Store
 
-# Datos y resultados locales
+# Datos (pero NO los resultados)
 data/
-resultados/*.png
-!resultados/.gitkeep
 
 # Logs
 *.log
+
+# NO ignoramos resultados - queremos las imágenes en GitHub
+# resultados/
