@@ -75,3 +75,19 @@ En la práctica médica real, el estado exacto de salud de un paciente no es dir
 - Gripe: predominio de fiebre alta (60%)
 
 ### Probabilidades Iniciales (π)
+π = [Saludable: 0.70, Resfriado: 0.20, Gripe: 0.10]
+
+Basado en prevalencia poblacional en temporada no epidémica.
+
+## 🚀 Instalación y Ejecución
+
+### Requisitos del sistema
+- Python 3.8 o superior
+- Visual Studio Code (recomendado)
+- Git (opcional, para clonar el repositorio)
+
+### Paso 1: Clonar o descargar el repositorio
+
+```bash
+git clone https://github.com/marcela612/hmm_diagnostico_medico.git
+cd hmm_diagnostico_medico
