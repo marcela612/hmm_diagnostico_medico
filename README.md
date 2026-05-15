@@ -89,5 +89,4 @@ Basado en prevalencia poblacional en temporada no epidémica.
 ### Paso 1: Clonar o descargar el repositorio
 
 ```bash
-git clone https://github.com/marcela612/hmm_diagnostico_medico.git
-cd hmm_diagnostico_medico
+https://github.com/marcela612/hmm_diagnostico_medico.git 
